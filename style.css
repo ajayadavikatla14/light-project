@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: purple;
+    color: white;
+}
+
+h1{
+    margin-top: 300px;
+    color: white;
+}
+
+#on{
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#off{
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 10px;
+    display: inline-block;
+}
